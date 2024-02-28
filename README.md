@@ -3,5 +3,3 @@ Using Java I created a real-time chat application equipped with a login screen, 
 Included is a link to my video demostration of this app
 https://www.youtube.com/watch?v=UER9L65M4s8
 
-Here is the source code
-FinalProject/src
